@@ -1,3 +1,3 @@
 name,Mean NDCG (K=10)
-Popularity Recommender (baseline),0.15609808947989573
-Content-Based Filtering,0.03430638382579887
+Popularity Recommender (baseline),0.156098089
+Content-Based Filtering,0.06806834027721581
