@@ -2,3 +2,4 @@ name,Mean NDCG (K=10)
 Popularity Recommender (baseline),0.156098089
 Content-Based Filtering,0.06806834
 User-Based Collaborative Filtering,0.020490919957394462
+Matrix Factorization Collaborative Filtering,0.3189053217881892
