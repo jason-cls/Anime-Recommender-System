@@ -1,1 +1,2 @@
-# Anime-Recommender-System
+# Anime Recommender System
+Popular services such as Netflix, Amazon, and YouTube offer personalized product recommendations to users based on their previous interactions. Recommender systems are what provide the magic behind these accurate (and often creepy) user  recommendations. In this project I survey a collection of different recommendation strategies by implementing them from scratch. Explicit user rating data collected from https://myanimelist.net/ is used to recommend anime shows with the quality of recommendations being evaluated offline.
